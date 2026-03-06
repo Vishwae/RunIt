@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "RunIt!",
+    "slug": "runit",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#0D0D0D"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.runit.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0D0D0D"
+      },
+      "package": "com.runit.app"
+    },
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
